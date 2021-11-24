@@ -16,7 +16,7 @@
 		- you can examples as below:
 		```	+------------------+
 			+------------------+
-			| trunks	       |
+			| trunks	   |
 			+------------------+
 			| my-dialout-trunk |
 			| my-dial-one      |
